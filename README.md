@@ -53,7 +53,7 @@ Batch Size: 8
 
 Max Length: 512
 
-##📚 Technologies Used
+## 📚 Technologies Used
 🤗 Transformers
 
 🔥 PyTorch
