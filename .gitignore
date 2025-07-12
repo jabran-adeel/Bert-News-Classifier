@@ -1,0 +1,13 @@
+venv/
+results/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+.ipynb_checkpoints/
+logs/
+*.pt
+*.bin
+*.safetensors
