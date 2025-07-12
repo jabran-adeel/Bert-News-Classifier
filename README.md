@@ -43,6 +43,7 @@ After training, the model will automatically evaluate and generate a confusion m
 
 ## 📊 Evaluation
 <p align="center"> <img src="confusion_matrix.png" alt="Confusion Matrix" width="600"/> </p>
+
 Metric: Accuracy
 
 Model: `bert-base-uncased`
