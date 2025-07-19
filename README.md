@@ -62,3 +62,30 @@ This project fine-tunes the `bert-base-uncased` model on the [AG News Dataset](h
 ### 📦 Install requirements
 ```bash
 pip install -r requirements.txt
+```
+▶️ Run the app
+```bash
+streamlit run app.py
+```
+
+## 📁 Project Structure
+
+bert_news_classifier/
+
+├── main.py               Model training and saving
+
+├── app.py                Streamlit frontend app
+
+├── requirements.txt      Dependencies
+
+├── screenshots/          UI previews
+
+└── README.md             Project overview
+
+## ✍️ Author
+
+Made with ❤️ by ![Jabran Adeel](https://www.linkedin.com/in/jabran-adeel/)
+
+## 📌 License
+
+This project is licensed under the MIT License. See `LICENSE` for more details.
