@@ -84,8 +84,8 @@ bert_news_classifier/
 
 ## ✍️ Author
 
-Made with ❤️ by ![Jabran Adeel](https://www.linkedin.com/in/jabran-adeel/)
+Made with ❤️ by [Jabran Adeel](https://www.linkedin.com/in/jabran-adeel/)
 
 ## 📌 License
 
-This project is licensed under the MIT License. See `LICENSE` for more details.
+This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for more details.
